@@ -15,7 +15,7 @@
     "versionBump": "node ./scripts/version_bump.js"
   },
   "dependencies": {
-      "flounder": "^0.6.3",
+      "flounder": "^0.6.3"
   },
   "devDependencies": {
     "babelify": "^6.3.0",
